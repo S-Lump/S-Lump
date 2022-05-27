@@ -5,8 +5,7 @@ I'm a software engineer who is passionate about creating technology, beautiful a
 ## Find me around the web 🌎:
 - If you have any questions or offers, please contact us in telegram <a href="https://t.me/s_cryptor" target="_blank">s_cryptor</a> 📱
 
-#### Books
-##### Reading now:
+#### Books, i'm reading now:
 - <b>Effective TypeScript: 62 Specific Ways to Improve Your TypeScript</b> by Dan Vanderkam
 
 #### Topics, Languages and Tools
