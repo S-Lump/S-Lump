@@ -5,8 +5,11 @@ I'm a software engineer who is passionate about creating technology, beautiful a
 ## Find me around the web 🌎:
 - If you have any questions or offers, please contact me in telegram <a href="https://t.me/s_cryptor" target="_blank">s_cryptor</a> 📱
 
-#### Books, i'm reading now:
-- <b>Effective TypeScript: 62 Specific Ways to Improve Your TypeScript</b> by Dan Vanderkam
+#### Dev books, I'm reading now:
+- <b>Senior Mindset</b> by Swizec Teller
+
+#### Dev books, I'v read and recommend
+- <b>Effective TypeScript: 62 Specific Ways to Improve Your TypeScript</b> by Dan Vanderkam ⭐⭐⭐⭐⭐
 
 #### Topics, Languages and Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
