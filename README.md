@@ -7,7 +7,7 @@ I'm a software engineer who is passionate about creating technology, beautiful a
 - <img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> <a href="https://www.linkedin.com/in/grigory-korbut-95b79312a/" target="_blank">Grigory Korbut</a>
 
 #### Dev books, I'm reading now:
-- 
+- <b>Code complete</b> by Steve McConnell
 
 #### Dev books, I'v read and recommend
 - <b>Effective TypeScript: 62 Specific Ways to Improve Your TypeScript</b> by Dan Vanderkam ★★★★★
