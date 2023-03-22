@@ -7,11 +7,12 @@ I'm a software engineer who is passionate about creating technology, beautiful a
 - <img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> <a href="https://www.linkedin.com/in/grigory-korbut-95b79312a/" target="_blank">Grigory Korbut</a>
 
 #### Dev books, I'm reading now:
-- <b>The Pragmatic Programmer</b> by David Thomas, Andrew Hunt
+- 
 
 #### Dev books, I'v read and recommend
 - <b>Effective TypeScript: 62 Specific Ways to Improve Your TypeScript</b> by Dan Vanderkam ★★★★★
 - <b>Senior Engineering Mindset</b> by Swizec Teller ★★★★☆
+- <b>The Pragmatic Programmer</b> by David Thomas, Andrew Hunt ★★★★★
 
 #### Topics, Languages and Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
