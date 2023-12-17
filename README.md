@@ -14,7 +14,7 @@ I'm a software engineer who is passionate about creating technology, beautiful a
 - <b>Senior Engineering Mindset</b> by Swizec Teller ★★★★☆
 - <b>The Pragmatic Programmer</b> by David Thomas, Andrew Hunt ★★★★★
 - <b>Code complete</b> by Steve McConnell ★★★★★
-- <b>The Mythical Man-Month</b> by Frederick Brooks ★★★
+- <b>The Mythical Man-Month</b> by Frederick Brooks ★★★☆☆
 
 #### Topics, Languages and Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
